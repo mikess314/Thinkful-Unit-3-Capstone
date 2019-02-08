@@ -38,7 +38,7 @@ Gradient Boosting | 90.3%
 
 The most important features calculated for the Gradient Boosting (clf) using clf.feature_importances_:
 
-![Important Features](Young Adult Important Features.png)
+![Important Features](YoungAdultImportantFeatures.png)
 
 ## Part IV - Joey
 
